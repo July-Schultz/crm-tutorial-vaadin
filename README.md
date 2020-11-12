@@ -1,3 +1,7 @@
+# How to compile
+
+mvn  clean package -Pproduction
+
 # Spring Boot and Vaadin tutorial application source code
 
 This repository contains the source code for the [Java Web App development tutorial series](https://bit.ly/2W6c8CO).
